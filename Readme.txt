@@ -1,0 +1,1 @@
+Luego de la creación del nuevo socio, el socio debe recibir un correo electrónico confirmando su inscripción.
